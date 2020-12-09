@@ -1,3 +1,5 @@
 const betterFeature = () => {
-    alert('ello');
+    console.log('hello');
 }   
+
+
