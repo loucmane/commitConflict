@@ -1,0 +1,3 @@
+const goodFeature = () => {
+    alert('ello');
+}   
