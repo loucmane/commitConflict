@@ -1,3 +1,3 @@
-const goodFeature = () => {
+const betterFeature = () => {
     alert('ello');
 }   
